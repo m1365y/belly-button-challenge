@@ -1,10 +1,5 @@
-![download](https://user-images.githubusercontent.com/112741203/227890324-32d392e9-9b24-4546-80a5-89fa71905ef4.jpg)
+# Belly Button Challenge
 
-
-
-https://terryhill89.github.io/Belly-Button-Challenge/
-## By Terry Goins
-## Background
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
@@ -21,6 +16,7 @@ Complete the following steps:
  - Use otu_ids as the labels for the bar chart.
 
  - Use otu_labels as the hovertext for the chart.
+ 
  ![hw01](https://user-images.githubusercontent.com/112741203/226250009-e3d95c5f-547b-4a76-8e93-113b6d7660c6.jpg)
  
 3. Create a bubble chart that displays each sample.
@@ -61,18 +57,6 @@ The following task is advanced and therefore optional.
 
  - Refer to the Plotly.js documentationLinks to an external site. when building the plots.
  
-## * Helpful Links
-- http://robdunnlab.com/projects/belly-button-biodiversity/
-- https://plotly.com/javascript/gauge-charts/
-- https://plotly.com/javascript/
-- https://d3js.org/
-- https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
-- https://docs.spacexdata.com/#46951cda-bdf2-481b-9697-118b1cbccaba
-- https://observablehq.com/@d3/galleryhttps://plotly.com/javascript/plotlyjs-function-reference/#plotlyrestyle
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
 
-## References
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
- 
  
  
